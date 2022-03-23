@@ -1,0 +1,9 @@
+.*
+!.gitkeep
+!.gitignore
+*.class
+*.iml
+out/
+target/
+src/main/resources/mirror_*.txt
+src/main/resources/?*.mirror.*
